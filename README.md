@@ -1,7 +1,18 @@
-## Hi there 👋
+## Hi I'm Amjadul Alam Chowdhury 👋
+I am a passionate developer and technology enthusiast who loves exploring and building innovative solutions.
+### I'm interested in:
+- **MERN Stack**
+- **Machine Learning**
 
-<!--
-**AmjadChowdhury/AmjadChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## 📊 My Github Stats
+  ![GitHubStats](https://github-readme-stats.vercel.app/api?username=AmjadChowdhury&show_icons=true&theme=radical)
+
+  ## 📫 Contact me:  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](amjadchowdhury247@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amjadchowdhury/)  
+
+
+
 
 Here are some ideas to get you started:
 
