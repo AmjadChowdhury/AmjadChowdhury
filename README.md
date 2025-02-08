@@ -8,7 +8,7 @@ I am a passionate developer and technology enthusiast who loves exploring and bu
   ![GitHubStats](https://github-readme-stats.vercel.app/api?username=AmjadChowdhury&show_icons=true&theme=radical)
 
   ## 📫 Contact me:  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](amjadchowdhury247@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:amjadchowdhury247@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amjadchowdhury/)  
 
 
